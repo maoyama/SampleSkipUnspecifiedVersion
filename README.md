@@ -7,6 +7,30 @@ This is the minimal reproduction for https://github.com/renovatebot/renovate/pul
 The latest version of Fakery (https://github.com/vadymmarkov/Fakery) is 5.1.0, but Renovate skips it and does not create a pull request to update to the latest version 5.1.0.
 
 [mend.log](https://github.com/maoyama/SampleSkipUnspecifiedVersion/files/12000028/mend.log)
+> DEBUG: packageFiles with updates
+{
+  "baseBranch": "main"
+  "config": {
+    "cocoapods": [
+      {
+        "deps": [
+          {
+            "depName": "Fakery",
+            "groupName": "Fakery",
+            "skipReason": "unspecified-version",
+            "updates": [],
+            "packageName": "Fakery"
+          }
+        ],
+        "lockFiles": [
+          "Podfile.lock"
+        ],
+        "packageFile": "Podfile"
+      }
+    ]
+  }
+}
+
 
 ## Expected behavior
 
