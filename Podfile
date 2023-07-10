@@ -6,5 +6,5 @@ target 'SampleSkipUnspecifiedVersion' do
   use_frameworks!
 
   # Pods for SampleSkipUnspecifiedVersion
-  pod 'Fakery', '5.0.0'
+  pod 'Fakery'
 end
