@@ -7,96 +7,69 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		02C891331D97E2FB0FC426AC6553005F /* Internet.swift in Sources */ = {isa = PBXBuildFile; fileRef = A982DD309D6B2D5764B2C06AD0A59F85 /* Internet.swift */; };
-		049E9EB0496E9054B66CE45AC0979269 /* Lorem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84819827F4D9798E879F1DF437AEFBF3 /* Lorem.swift */; };
-		050F6E5D4BDA4B17538EF77D5C976F9E /* zh-TW.json in Resources */ = {isa = PBXBuildFile; fileRef = 863836A267F8D32579EE7575DA3B8D51 /* zh-TW.json */; };
-		0802BF7F60218873A25F6D7D11DFE289 /* nl.json in Sources */ = {isa = PBXBuildFile; fileRef = A9DB36E3A8BEC601D6B82314136BB38C /* nl.json */; };
-		08EE4295C559DBE504FA6C90A1D74DDA /* ja.json in Resources */ = {isa = PBXBuildFile; fileRef = 413DD38337AB10C3C1F6AF394AF7DF4E /* ja.json */; };
-		09544EC4FCF5C342DE743D5FFE9F16AD /* en-AU.json in Resources */ = {isa = PBXBuildFile; fileRef = 05FB219667B76D185541A786D370C64B /* en-AU.json */; };
-		09D8DD161424C572BEC190A970072B85 /* fa.json in Resources */ = {isa = PBXBuildFile; fileRef = BABB41A5280BEF42C23316B849383536 /* fa.json */; };
-		0C15D9BAEB8F4C46413EC0E55CAAE7CA /* Ham.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EDEF0F8005C44DDE2D14B3614D6111D /* Ham.swift */; };
-		0D5812F650162542DBBC0C13B7B2BD3D /* Company.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3BE94D6EABBB5787F26849132C9594 /* Company.swift */; };
-		1A31055CF74BED2540A618DAC33BB16D /* Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA1CC42EC11837EF92A067A6BDA5B57 /* Address.swift */; };
-		1CA986916BDB19EDF63B6725C90B3162 /* Bank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E195B7E9E1FB317333725FE46079233 /* Bank.swift */; };
-		1E4679EDFC4C7DB4E610E2773809A9F1 /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = F819871BB0FCCB27268ECA69E2527939 /* Date.swift */; };
-		216328786C10FE3419C30AAB8575550D /* es.json in Resources */ = {isa = PBXBuildFile; fileRef = A461F03FB61F324380B6F798CA027C35 /* es.json */; };
-		22AF17F03020EB3A033B478BDCB710EB /* nl.json in Resources */ = {isa = PBXBuildFile; fileRef = A9DB36E3A8BEC601D6B82314136BB38C /* nl.json */; };
-		25CABB215FD729405B9549D2784D931B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		2952280C17FA12BB6DFFE77E0A6787B1 /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35AEE09C8DCB394C3E09966EAEEC5EF9 /* Config.swift */; };
-		335A73CEA00EB04698430AD7DAC14461 /* Vehicle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA831E9682CD6FDDD8D46C8E1853CB6 /* Vehicle.swift */; };
-		357E0717EBF887A9C4EBE87C5D9A3596 /* Parser.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB72AB25E229BCA6CCC0138D9D3BF7C3 /* Parser.swift */; };
-		3A7A8C7C3B200441A6C9834222E780C9 /* Gender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02E67E1AF0F1733860D1893D7B76192D /* Gender.swift */; };
-		3D1421A341B7BADD69E254CFCC89070F /* de.json in Resources */ = {isa = PBXBuildFile; fileRef = 1F223CA7A74972C5430305CB12BE467F /* de.json */; };
-		3F33FB2DF8C33722A7B2661BBA5EBEE5 /* nb-NO.json in Resources */ = {isa = PBXBuildFile; fileRef = 4A7A6D9241E603BADDB4E9BC32A1C0AE /* nb-NO.json */; };
-		4228F62D9C5DF0B3E2EEC063F2ECFEB2 /* Provider.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1CD65874E030DAA586F991ACC670F3 /* Provider.swift */; };
-		44C7B66EEF1E00BC78D3D520DB7884E9 /* fa.json in Sources */ = {isa = PBXBuildFile; fileRef = BABB41A5280BEF42C23316B849383536 /* fa.json */; };
-		44EC99D64A39CC63B52EACBFAC044C6E /* ja.json in Sources */ = {isa = PBXBuildFile; fileRef = 413DD38337AB10C3C1F6AF394AF7DF4E /* ja.json */; };
-		47B041224A533CD6644AA02E1BCE5AD2 /* Zelda.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D02132290ECF4B6BD4C069B784E5B2 /* Zelda.swift */; };
-		47C2AA08042D173762DBE0C4EAB85DF9 /* nb-NO.json in Sources */ = {isa = PBXBuildFile; fileRef = 4A7A6D9241E603BADDB4E9BC32A1C0AE /* nb-NO.json */; };
-		4AAF9938B5EBDEE3F3B639CEEB6F2790 /* en-AU.json in Sources */ = {isa = PBXBuildFile; fileRef = 05FB219667B76D185541A786D370C64B /* en-AU.json */; };
-		4D0663DDFBED3F35482C28A0792E8BC6 /* it.json in Resources */ = {isa = PBXBuildFile; fileRef = A73E8A1AC64290BE7B05A51E6999E163 /* it.json */; };
-		4E7C8611BC71B941E4244B1C531718BF /* Cat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CC9C087210927E04E2070B0663FE07C /* Cat.swift */; };
-		4EBDCF2F57EDAFA64E493D735E1E3F28 /* en-CA.json in Resources */ = {isa = PBXBuildFile; fileRef = 9E78E474942139FC51980CCDE79D6976 /* en-CA.json */; };
-		5113AC128D740BC4066C2015FCE35876 /* PhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54106A6AB67279F86FFDC6B252E8CE81 /* PhoneNumber.swift */; };
-		537300E9D3E67A1A06DF9EFB8B6642CD /* ko.json in Resources */ = {isa = PBXBuildFile; fileRef = AC8FEEB76B2685BF7091A0DD0EC424CA /* ko.json */; };
-		58CE6B3B6E716F6820C32CF490F07ACA /* tr-TR.json in Resources */ = {isa = PBXBuildFile; fileRef = 7FF1692C28A9D26A5B8331D48A934BFB /* tr-TR.json */; };
-		6171E628D2ACF1CB35E4F6630C8A8994 /* pl.json in Sources */ = {isa = PBXBuildFile; fileRef = 4B2DACA86CD78F1543AEBE39F21AC6D6 /* pl.json */; };
-		61FDDF58283F7EC91328EB50DFF6FA27 /* ru.json in Sources */ = {isa = PBXBuildFile; fileRef = 443D4432CF3A8BDD112CDED38AF5E1F1 /* ru.json */; };
-		67729F0D2FDC3A5D559DD7CBC1AB28F0 /* Fakery-Faker in Resources */ = {isa = PBXBuildFile; fileRef = FB9EDEF446E3F7D484CA4B8085AFEAA6 /* Fakery-Faker */; };
-		69FB594FD3E4A9A0E66D0A4A43D0350F /* uk.json in Resources */ = {isa = PBXBuildFile; fileRef = 145304F94B056DE75E2EF174C62CC96A /* uk.json */; };
-		6C4FFB94C624350590934B1E6A344D28 /* Fakery-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7CEA1E6F97DB042201DEBEE1F0447A03 /* Fakery-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		78D2262D34D8D11DEF852A29074E0490 /* en-GB.json in Resources */ = {isa = PBXBuildFile; fileRef = AF76355FE88A677C52793940F3512582 /* en-GB.json */; };
-		818A96DD23FC99A5EE1D297E713C4D82 /* Team.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B0E051D69FB50CE9D20476F81F7991C /* Team.swift */; };
-		82BC51B438434AC59C4DA5880B3A935D /* pl.json in Resources */ = {isa = PBXBuildFile; fileRef = 4B2DACA86CD78F1543AEBE39F21AC6D6 /* pl.json */; };
-		85B93A5CE52D63259DD2CA3D69142FF8 /* en-IND.json in Resources */ = {isa = PBXBuildFile; fileRef = DE17AA6D4BE2733C3BF10E149831B09E /* en-IND.json */; };
-		94AAEBFC1282B2758E06E14AE4EA7E80 /* en-US.json in Sources */ = {isa = PBXBuildFile; fileRef = 2D4E9B95E9DF3A61D4A367D1AFCAF9D3 /* en-US.json */; };
-		95958D862CC652B04D36C98689B0FC76 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9C312AE393E8832DA5EA61AFFC0FB0 /* Car.swift */; };
-		95E3EAD54809AF46C9334B856B4F5423 /* App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 165117ABE14F4BB74D223068A00CE261 /* App.swift */; };
-		9C876AE92859649D4133EE6CC25B9836 /* en-TEST.json in Sources */ = {isa = PBXBuildFile; fileRef = 0CAFB21C4062C2BE58C36079A5389F0E /* en-TEST.json */; };
-		A2A713D41055D7BCBCAAB45F524D1B93 /* Hobbit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92B22D37A91D1E3F17B84208A5F5CB9E /* Hobbit.swift */; };
-		A426EFFFB866902FF080DC16D96A530B /* Faker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17A1651FB5B9CC6491AF10D6CF49B4B4 /* Faker.swift */; };
-		A4C85AF1080B0B620D7BAC3228B8FB61 /* Commerce.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1335E8E1E3B0E39E899A65EBBEDF791 /* Commerce.swift */; };
-		A8889DEF79AEAF8A9EE060C36F7C16F9 /* en-TEST.json in Resources */ = {isa = PBXBuildFile; fileRef = 0CAFB21C4062C2BE58C36079A5389F0E /* en-TEST.json */; };
-		A9BD45BD933841A8DF51D705C2ADFF4B /* es.json in Sources */ = {isa = PBXBuildFile; fileRef = A461F03FB61F324380B6F798CA027C35 /* es.json */; };
-		AD939409330445E7FC5F3DB3CAADABFB /* sv.json in Sources */ = {isa = PBXBuildFile; fileRef = 3354E3DB4E4C67053E38D54BA210A921 /* sv.json */; };
-		ADDEDE9FA68A1FE419A31A9E3D02691C /* Business.swift in Sources */ = {isa = PBXBuildFile; fileRef = 409536CD81D61E38D80567CAB41CC878 /* Business.swift */; };
-		AEF3BA47A9DBD5E47E33AEDD2B7B82CF /* de-AT.json in Resources */ = {isa = PBXBuildFile; fileRef = E3EF253E61BCF2C18672E35C1906F7C0 /* de-AT.json */; };
-		AF9F56FEF285B7DCDF9647A806434A00 /* en.json in Sources */ = {isa = PBXBuildFile; fileRef = FD1FF9DD9F1DC870730BA76C7CD5DAC3 /* en.json */; };
+		01AC126130B7BB34BF98E018AEACB99E /* Zelda.swift in Sources */ = {isa = PBXBuildFile; fileRef = F08341658AE5CFA4AB24AF01FF6C1ED5 /* Zelda.swift */; };
+		0229605A67E073F0D57BD1792AD2C967 /* Faker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73A9E0A72A23C7987E9355FAFD35EDA4 /* Faker.swift */; };
+		08045BCAAA4AFD6260B461E8C9332A04 /* Ham.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7A640E31A633A71671EBE35E1181464 /* Ham.swift */; };
+		08CD2A803DE28D2E5B99C596F6EFDE4E /* Team.swift in Sources */ = {isa = PBXBuildFile; fileRef = C80435326A53158120FF9860F05F95FF /* Team.swift */; };
+		0BF94D4C261F8E65DC702712455762EA /* fa.json in Resources */ = {isa = PBXBuildFile; fileRef = 9E47E26579A0C7C1574D3C665FFAB8BA /* fa.json */; };
+		192ED78887920CA1B7307C655DE1A0DA /* nb-NO.json in Resources */ = {isa = PBXBuildFile; fileRef = 1B24F23A930FB83E9DC3EA8FEA5488CD /* nb-NO.json */; };
+		23CBDCFDEA8F54E68F5F8660EA323812 /* Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA738EE7A2229BEB4633AFA0DDF6B0EA /* Address.swift */; };
+		25BD2CC88D65677450F4A5098C9B0F36 /* Fakery-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D4755DF389FC4D312F5AC98603E63B9E /* Fakery-dummy.m */; };
+		2AAE0F17A4CEFB973AB94D5F3A54237E /* Business.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBF8858FA53F201CDB24F09D2A9AC10 /* Business.swift */; };
+		2C80E768A54533753E113A746C615C06 /* de.json in Resources */ = {isa = PBXBuildFile; fileRef = F1807078D13DB054583397C3CA24CB53 /* de.json */; };
+		2D0D6E2F3E6CECC985BC4DE748BED37F /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC8A05274BF14DC6DEC2A961EE51B5D /* Config.swift */; };
+		340EF4D096E651EBC0404111476A3026 /* Cat.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69310EE3DCC2E6CE45E983C09327389 /* Cat.swift */; };
+		356C9D44622D1B8A0CC3364FF8CF5358 /* Bank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187535854FBE1A69401AEE1435E5D3B5 /* Bank.swift */; };
+		3CF95B7CF15651DCC4A2EBCDADA91FD1 /* Hobbit.swift in Sources */ = {isa = PBXBuildFile; fileRef = F25E90810FBC5C54E19086AA71812516 /* Hobbit.swift */; };
+		4907EB737BC4587F6413ACB00E0B1682 /* uk.json in Resources */ = {isa = PBXBuildFile; fileRef = 6B326F454B00B507C34463721BBAFD8A /* uk.json */; };
+		4B126831E86E4ABDFCB3BF5CBEBDBEC4 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD6D41C06A6127723C04F1887751A647 /* Car.swift */; };
+		4BD752EC89F7F71831D0D9FD188E3428 /* Fakery-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1BB01F9E6A8430515F64A3FE94CD7EED /* Fakery-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		53B55DA1B9BB95E234278008589BD362 /* Generator.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE8138B60FFB38A667672C6236E0EA92 /* Generator.swift */; };
+		55501B94285895202D9B3B572DB7C3A8 /* en-US.json in Resources */ = {isa = PBXBuildFile; fileRef = C9DDA22F098579D3778308F5F191D04A /* en-US.json */; };
+		5720EE492DCA054ED50273114D569158 /* sv.json in Resources */ = {isa = PBXBuildFile; fileRef = 3F31190619209745EB93AC71F3F9F7B3 /* sv.json */; };
+		5BAA92A45C1425CB32B4B219CB523C1F /* en-AU.json in Resources */ = {isa = PBXBuildFile; fileRef = AB9E30FD734F2A1BE8FD272D322C6481 /* en-AU.json */; };
+		5BF6163B6D78E8F97A9F80C297D8E221 /* ProgrammingLanguage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62BFD917ECCAD07FC18D47B88B40A78C /* ProgrammingLanguage.swift */; };
+		5E32BB034409E08014C1C04FCBFFF7E1 /* it.json in Resources */ = {isa = PBXBuildFile; fileRef = 95D15EB52F9672A62712C2A8C7C6538E /* it.json */; };
+		5FE06459D3339A5F238C5DCE16FFA595 /* Fakery-Faker in Resources */ = {isa = PBXBuildFile; fileRef = FB9EDEF446E3F7D484CA4B8085AFEAA6 /* Fakery-Faker */; };
+		716B511ACB7F46C28C4D614E788A86D1 /* House.swift in Sources */ = {isa = PBXBuildFile; fileRef = B311C73F1A6E1748B4BA7E26277BCCD3 /* House.swift */; };
+		76E64E7C840638D6CFFAD59417080C35 /* Company.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1398E8330D46AB3A757E1804CD1289B0 /* Company.swift */; };
+		77E12B5F77FB4E3F30872480FD4FF297 /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2DCB3AA09BDF305A01AAE0112486EC5 /* Date.swift */; };
+		7B879ADA5EE4DB762B99F443B3F40AF4 /* de-CH.json in Resources */ = {isa = PBXBuildFile; fileRef = 5A97ED2E4580FBDD47281904F89476D9 /* de-CH.json */; };
+		803DE04C09A38891599A58D9CF8463EF /* en-GB.json in Resources */ = {isa = PBXBuildFile; fileRef = 7F5577288B195B69122121262F15DDA7 /* en-GB.json */; };
+		84C6849DB495F258DC144FCD4229C800 /* App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE51C88F0C08335F3CF7F2511F42E2B /* App.swift */; };
+		86B0DA5B43A4C234632FE5FE0A77CC83 /* sk.json in Resources */ = {isa = PBXBuildFile; fileRef = BC7186D5EBD62531AD5770B85D243D18 /* sk.json */; };
+		8A70460B8A890DC1E3D27B7C3B6D61A3 /* zh-TW.json in Resources */ = {isa = PBXBuildFile; fileRef = 1E9B8C57C67D06B010C75F5BE2C0C7D7 /* zh-TW.json */; };
+		8FFE4F68EE2107D142520CEC8B09BCB1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		958829A08A858C03B48F3E14667B2A5B /* en-TEST.json in Resources */ = {isa = PBXBuildFile; fileRef = 9491362E905649C893927EC1BE3FB742 /* en-TEST.json */; };
+		9D12500D97C775574D51F5961C751998 /* en-IND.json in Resources */ = {isa = PBXBuildFile; fileRef = 5BEA6E133DD786A06A30CCF09E217806 /* en-IND.json */; };
+		9D49097FBB0B6A5C512BFAEB186D3FF1 /* es.json in Resources */ = {isa = PBXBuildFile; fileRef = 5E51A729AA95E5D949D13D66F97E8401 /* es.json */; };
+		9DF98822622B6048C182C9E698A8A8F4 /* ArrayExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89C87AFF4BD7EEFB0617CC4DEFA2A76F /* ArrayExtension.swift */; };
+		A1FF6D2E15B6E9EB019BF73BD4034159 /* en-CA.json in Resources */ = {isa = PBXBuildFile; fileRef = 19F974AF1A6CFBA49E9C01EE7938D023 /* en-CA.json */; };
+		A8F50FA2CDB5882C2B0CEE4ABC4B88E0 /* Name.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78E035B5F779CB0B0C82B0E44AA26801 /* Name.swift */; };
+		AB8007D78250DF870B76632A0919D213 /* Commerce.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC74CCB0ED1B90DE5F3BD66E5A2F91F2 /* Commerce.swift */; };
+		B0FF2F48282056FFA1B65DCCAC28AA8F /* nl.json in Resources */ = {isa = PBXBuildFile; fileRef = A55537741DC75D0DA172D97982936E44 /* nl.json */; };
 		B12A2E70EE31ECBEE1F7EB27D541E187 /* Pods-SampleSkipUnspecifiedVersion-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D5D8DCE82423B84BBBEB4F148AB2875C /* Pods-SampleSkipUnspecifiedVersion-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B223E83EBB9F559B241C8017EB1BA044 /* Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CD2B1F979E892F530E5752F11A1E6B /* Number.swift */; };
-		B38ACF3C195F338D868409D14B58EFD4 /* ArrayExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330ED2ED50EC859BAE543F759D500646 /* ArrayExtension.swift */; };
-		BA0434B1BF7C4FC28D89DCF8229B0B76 /* en.json in Resources */ = {isa = PBXBuildFile; fileRef = FD1FF9DD9F1DC870730BA76C7CD5DAC3 /* en.json */; };
-		BA27CB6540B9E1AC5F6DF9C53DAA1F0B /* Name.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46C000AFC8F36F30F2766D14D3ECBF0 /* Name.swift */; };
+		B57B99A4243D1D041BBE4F99784BB428 /* ru.json in Resources */ = {isa = PBXBuildFile; fileRef = 171A2A3457E3EE3ABF745FDFBA15FEA2 /* ru.json */; };
+		B62CE8D4BC992DD916FA344B32C4BB0D /* fr.json in Resources */ = {isa = PBXBuildFile; fileRef = 7928D7DF9BB5F1BF2DEE99206B021EDD /* fr.json */; };
+		B7F0581669F39DDCC81C6D317464F249 /* Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F05B7223BB397536F5618835FD01E3 /* Number.swift */; };
+		B80D3A3F541BB577ED51D0727DDD4324 /* tr-TR.json in Resources */ = {isa = PBXBuildFile; fileRef = 308D48D6C0DE7F19D49734D10D2632BF /* tr-TR.json */; };
+		BB1DB9E7B618599D69921D04A86E8667 /* PhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 152AC5266AA190736ACC57765255B2EC /* PhoneNumber.swift */; };
 		BC4B55BBA862BA7320D6FE79CF99C506 /* Pods-SampleSkipUnspecifiedVersion-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B79AA34C3E44658BBD32CCD247DCC9B7 /* Pods-SampleSkipUnspecifiedVersion-dummy.m */; };
-		C4F14954B8C81FE2B5F0FA9EB2E65F08 /* de-CH.json in Sources */ = {isa = PBXBuildFile; fileRef = AC35BA60E18B9DFC4172DE99374170C2 /* de-CH.json */; };
-		C671FE1AD6541A31FE1B1054B82416AB /* zh-CN.json in Resources */ = {isa = PBXBuildFile; fileRef = 009A698D63BE1141E55E2A6925441A35 /* zh-CN.json */; };
-		C7CD38E2B8A31F650B06317BA8202C3A /* en-IND.json in Sources */ = {isa = PBXBuildFile; fileRef = DE17AA6D4BE2733C3BF10E149831B09E /* en-IND.json */; };
-		CA7CA7F8136D621DF9284482E712F3D8 /* en-US.json in Resources */ = {isa = PBXBuildFile; fileRef = 2D4E9B95E9DF3A61D4A367D1AFCAF9D3 /* en-US.json */; };
-		CCEFD0AA74B98A16EDDC8AD2CA88C23E /* ko.json in Sources */ = {isa = PBXBuildFile; fileRef = AC8FEEB76B2685BF7091A0DD0EC424CA /* ko.json */; };
-		D0A364154E0EB00778A8AE269150FC29 /* en-CA.json in Sources */ = {isa = PBXBuildFile; fileRef = 9E78E474942139FC51980CCDE79D6976 /* en-CA.json */; };
-		D1D6086D52DDA3ADBA4E7D44E40A5253 /* it.json in Sources */ = {isa = PBXBuildFile; fileRef = A73E8A1AC64290BE7B05A51E6999E163 /* it.json */; };
-		D251F21F083A049AC486FE481A49AF1E /* pt-BR.json in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EDB61D3E6DF86FA46C89445AD448A /* pt-BR.json */; };
-		D5682091B061A02C26B79C963015A823 /* StringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16352E5479F5921F1961837BA5D69D92 /* StringExtensions.swift */; };
-		DC9E023085A1B96DD85E2C91F2E19369 /* de-CH.json in Resources */ = {isa = PBXBuildFile; fileRef = AC35BA60E18B9DFC4172DE99374170C2 /* de-CH.json */; };
-		DCB6791BF127BB21FE95DEFEF64C63B1 /* fr.json in Resources */ = {isa = PBXBuildFile; fileRef = 85C925BC5C5BCFCE305786C379D01389 /* fr.json */; };
-		DED0ADC8CB556F2FFE6A406035A3A7C4 /* de-AT.json in Sources */ = {isa = PBXBuildFile; fileRef = E3EF253E61BCF2C18672E35C1906F7C0 /* de-AT.json */; };
-		E4E24D347B66BEEBD107592D1A7A9E82 /* Generator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8A24290C5B16B8C147EFC0F37334196 /* Generator.swift */; };
-		E6577CF88FFCB1278093F312F18E9873 /* sk.json in Resources */ = {isa = PBXBuildFile; fileRef = 137EDE86296A5039DEBA6C28EA2047D9 /* sk.json */; };
-		E8C4BCFA669382183489629C16620551 /* tr-TR.json in Sources */ = {isa = PBXBuildFile; fileRef = 7FF1692C28A9D26A5B8331D48A934BFB /* tr-TR.json */; };
-		E919D0333ACE4FC3DCAFA046CEC43D21 /* Fakery-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 65A2577A7CED05A1FEEB4C60FA95F18D /* Fakery-dummy.m */; };
-		E94F348A4F1D6FDDC6518D5760063393 /* sk.json in Sources */ = {isa = PBXBuildFile; fileRef = 137EDE86296A5039DEBA6C28EA2047D9 /* sk.json */; };
-		E9E615AB41DF65D524F61B3233E03F0E /* zh-CN.json in Sources */ = {isa = PBXBuildFile; fileRef = 009A698D63BE1141E55E2A6925441A35 /* zh-CN.json */; };
-		F034177B1012501CE04680FB142E60E0 /* ru.json in Resources */ = {isa = PBXBuildFile; fileRef = 443D4432CF3A8BDD112CDED38AF5E1F1 /* ru.json */; };
-		F1BA3C3C711575C048CAEDA5D36CA074 /* ProgrammingLanguage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C934EE050746C7BAE0C540080244B33 /* ProgrammingLanguage.swift */; };
+		BC6DE7AC18B0A380DA02E45CEB9EC8B5 /* en.json in Resources */ = {isa = PBXBuildFile; fileRef = BF8DCB9C17FB1A6CB9DF4A1772AA0FD7 /* en.json */; };
+		BFF00B313C14E4DF6E77689B47E5DE8D /* Gender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B87584ABD14147177AEB58BF008C15 /* Gender.swift */; };
+		CC6B1D781B0974F4EA95EB46C18F12D6 /* Internet.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6F68C06F39EB6198FEFD1D1D117906 /* Internet.swift */; };
+		CD79B0B5097D90CC2502C38ED8700FE4 /* de-AT.json in Resources */ = {isa = PBXBuildFile; fileRef = 6A59544FC5FA7F7DD65A3766D2830BEF /* de-AT.json */; };
+		CDF3429FBE28445C2020B43E621AA6AC /* ja.json in Resources */ = {isa = PBXBuildFile; fileRef = A801915D7F7CD44A5913A3B4C53EE5A1 /* ja.json */; };
+		CEE08D1646F84492159654CBA8472764 /* pt-BR.json in Resources */ = {isa = PBXBuildFile; fileRef = EF0158B18D24A1719B4AF3BF058074B5 /* pt-BR.json */; };
+		CFCA1BA9FAB223410E430BC3AF0DA5C3 /* zh-CN.json in Resources */ = {isa = PBXBuildFile; fileRef = D4EA9BF6A0AEA4DE431861FDB830C0BD /* zh-CN.json */; };
+		D1F4E490896454F310AD1498E7A32976 /* Lorem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C0A8207D8BF6BF91795CC864159870 /* Lorem.swift */; };
+		D9906FB1C158FF6A6062107E8AD9E1B0 /* Parser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 681A5DE8DCE907892C129E6192821B87 /* Parser.swift */; };
+		E20DD20CAC5B76A8B73C88E358BB78B4 /* Vehicle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69AD7E20FA1E7ADDE2614BE0FEA1F388 /* Vehicle.swift */; };
+		EBDF1CFBDD900108DAF46F295111122D /* ko.json in Resources */ = {isa = PBXBuildFile; fileRef = 9459461AC5C36EA02F1B547B334DF82D /* ko.json */; };
+		EDC88296D63AF33112DE40AAA7476051 /* StringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98D8DB2A55F647834D2CA3ABE3A951CA /* StringExtensions.swift */; };
+		F24B01F76E42420851E1F97119D47F40 /* pl.json in Resources */ = {isa = PBXBuildFile; fileRef = E293E2F75100AA4D45F92852C683C196 /* pl.json */; };
+		F3C8F0F25549B41CB5D19909D5AB1B69 /* Provider.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69BA7B4B653A2F76058B94F1E992A5B /* Provider.swift */; };
 		F62AA8F50CF6D69B7B684478CDD94F00 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		F8180C2DABE3B3AEA4AD4C16BF1FF545 /* House.swift in Sources */ = {isa = PBXBuildFile; fileRef = D216EFC5C4DE4D91FA1D488210514BF9 /* House.swift */; };
-		F8B67070DF1395B310C59FEDC2788A4C /* pt-BR.json in Resources */ = {isa = PBXBuildFile; fileRef = 1A4EDB61D3E6DF86FA46C89445AD448A /* pt-BR.json */; };
-		F9DD4C3ED29FD43B246E4439154F0407 /* uk.json in Sources */ = {isa = PBXBuildFile; fileRef = 145304F94B056DE75E2EF174C62CC96A /* uk.json */; };
-		FA02414075D7C905F0CC2F3E7413A49E /* en-GB.json in Sources */ = {isa = PBXBuildFile; fileRef = AF76355FE88A677C52793940F3512582 /* en-GB.json */; };
-		FA3CC23558EE2C7A9357B5FE8CF15884 /* fr.json in Sources */ = {isa = PBXBuildFile; fileRef = 85C925BC5C5BCFCE305786C379D01389 /* fr.json */; };
-		FC07D57AA2BA585D8EBDA8043AAFE2AE /* zh-TW.json in Sources */ = {isa = PBXBuildFile; fileRef = 863836A267F8D32579EE7575DA3B8D51 /* zh-TW.json */; };
-		FC2ED097AFFA1D81E028DB03EC6094C4 /* de.json in Sources */ = {isa = PBXBuildFile; fileRef = 1F223CA7A74972C5430305CB12BE467F /* de.json */; };
-		FE6B40158AB1C78430FA5CE461EFAB29 /* sv.json in Resources */ = {isa = PBXBuildFile; fileRef = 3354E3DB4E4C67053E38D54BA210A921 /* sv.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -107,7 +80,7 @@
 			remoteGlobalIDString = 0E0176CCA7C8C85C89BC1E45EA82145D;
 			remoteInfo = Fakery;
 		};
-		BEE11096DD983B3D308C99E491851746 /* PBXContainerItemProxy */ = {
+		F33AC64C94A7B805F9E1E9C8E58C36FE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -117,95 +90,87 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		009A698D63BE1141E55E2A6925441A35 /* zh-CN.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "zh-CN.json"; path = "Sources/Fakery/Resources/Locales/zh-CN.json"; sourceTree = "<group>"; };
-		02E67E1AF0F1733860D1893D7B76192D /* Gender.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Gender.swift; path = Sources/Fakery/Generators/Gender.swift; sourceTree = "<group>"; };
-		05FB219667B76D185541A786D370C64B /* en-AU.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-AU.json"; path = "Sources/Fakery/Resources/Locales/en-AU.json"; sourceTree = "<group>"; };
-		0CAFB21C4062C2BE58C36079A5389F0E /* en-TEST.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-TEST.json"; path = "Sources/Fakery/Resources/Locales/en-TEST.json"; sourceTree = "<group>"; };
 		135B9EA8498D8BD288DE862D407255AE /* Fakery */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Fakery; path = Fakery.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		137EDE86296A5039DEBA6C28EA2047D9 /* sk.json */ = {isa = PBXFileReference; includeInIndex = 1; name = sk.json; path = Sources/Fakery/Resources/Locales/sk.json; sourceTree = "<group>"; };
-		145304F94B056DE75E2EF174C62CC96A /* uk.json */ = {isa = PBXFileReference; includeInIndex = 1; name = uk.json; path = Sources/Fakery/Resources/Locales/uk.json; sourceTree = "<group>"; };
-		16352E5479F5921F1961837BA5D69D92 /* StringExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StringExtensions.swift; path = Sources/Fakery/Extensions/StringExtensions.swift; sourceTree = "<group>"; };
-		165117ABE14F4BB74D223068A00CE261 /* App.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = App.swift; path = Sources/Fakery/Generators/App.swift; sourceTree = "<group>"; };
-		17A1651FB5B9CC6491AF10D6CF49B4B4 /* Faker.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Faker.swift; path = Sources/Fakery/Faker.swift; sourceTree = "<group>"; };
-		1A4EDB61D3E6DF86FA46C89445AD448A /* pt-BR.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "pt-BR.json"; path = "Sources/Fakery/Resources/Locales/pt-BR.json"; sourceTree = "<group>"; };
-		1F223CA7A74972C5430305CB12BE467F /* de.json */ = {isa = PBXFileReference; includeInIndex = 1; name = de.json; path = Sources/Fakery/Resources/Locales/de.json; sourceTree = "<group>"; };
-		26F0A28CB20AFE3357E064787FA14BB3 /* ResourceBundle-Faker-Fakery-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-Faker-Fakery-Info.plist"; sourceTree = "<group>"; };
-		2AA831E9682CD6FDDD8D46C8E1853CB6 /* Vehicle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Vehicle.swift; path = Sources/Fakery/Generators/Vehicle.swift; sourceTree = "<group>"; };
-		2D4E9B95E9DF3A61D4A367D1AFCAF9D3 /* en-US.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-US.json"; path = "Sources/Fakery/Resources/Locales/en-US.json"; sourceTree = "<group>"; };
-		330ED2ED50EC859BAE543F759D500646 /* ArrayExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ArrayExtension.swift; path = Sources/Fakery/Extensions/ArrayExtension.swift; sourceTree = "<group>"; };
-		3354E3DB4E4C67053E38D54BA210A921 /* sv.json */ = {isa = PBXFileReference; includeInIndex = 1; name = sv.json; path = Sources/Fakery/Resources/Locales/sv.json; sourceTree = "<group>"; };
-		35AEE09C8DCB394C3E09966EAEEC5EF9 /* Config.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Config.swift; path = Sources/Fakery/Config.swift; sourceTree = "<group>"; };
-		3A3BE94D6EABBB5787F26849132C9594 /* Company.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Company.swift; path = Sources/Fakery/Generators/Company.swift; sourceTree = "<group>"; };
-		3C934EE050746C7BAE0C540080244B33 /* ProgrammingLanguage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ProgrammingLanguage.swift; path = Sources/Fakery/Generators/ProgrammingLanguage.swift; sourceTree = "<group>"; };
-		3CC9C087210927E04E2070B0663FE07C /* Cat.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Cat.swift; path = Sources/Fakery/Generators/Cat.swift; sourceTree = "<group>"; };
-		3EDEF0F8005C44DDE2D14B3614D6111D /* Ham.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Ham.swift; path = Sources/Fakery/Generators/Ham.swift; sourceTree = "<group>"; };
-		3FF148BB110BB873485668C8D2816BA4 /* Fakery-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Fakery-Info.plist"; sourceTree = "<group>"; };
-		409536CD81D61E38D80567CAB41CC878 /* Business.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Business.swift; path = Sources/Fakery/Generators/Business.swift; sourceTree = "<group>"; };
-		413DD38337AB10C3C1F6AF394AF7DF4E /* ja.json */ = {isa = PBXFileReference; includeInIndex = 1; name = ja.json; path = Sources/Fakery/Resources/Locales/ja.json; sourceTree = "<group>"; };
-		443D4432CF3A8BDD112CDED38AF5E1F1 /* ru.json */ = {isa = PBXFileReference; includeInIndex = 1; name = ru.json; path = Sources/Fakery/Resources/Locales/ru.json; sourceTree = "<group>"; };
-		450DEF5A038971920CA02CCC58B04229 /* Fakery.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Fakery.release.xcconfig; sourceTree = "<group>"; };
-		45DA607B28C8DA0CA9351EFD0F2636D4 /* Fakery.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Fakery.modulemap; sourceTree = "<group>"; };
+		1398E8330D46AB3A757E1804CD1289B0 /* Company.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Company.swift; path = Sources/Fakery/Generators/Company.swift; sourceTree = "<group>"; };
+		152AC5266AA190736ACC57765255B2EC /* PhoneNumber.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhoneNumber.swift; path = Sources/Fakery/Generators/PhoneNumber.swift; sourceTree = "<group>"; };
+		171A2A3457E3EE3ABF745FDFBA15FEA2 /* ru.json */ = {isa = PBXFileReference; includeInIndex = 1; name = ru.json; path = Sources/Fakery/Resources/Locales/ru.json; sourceTree = "<group>"; };
+		187535854FBE1A69401AEE1435E5D3B5 /* Bank.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Bank.swift; path = Sources/Fakery/Generators/Bank.swift; sourceTree = "<group>"; };
+		19F974AF1A6CFBA49E9C01EE7938D023 /* en-CA.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-CA.json"; path = "Sources/Fakery/Resources/Locales/en-CA.json"; sourceTree = "<group>"; };
+		1B24F23A930FB83E9DC3EA8FEA5488CD /* nb-NO.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "nb-NO.json"; path = "Sources/Fakery/Resources/Locales/nb-NO.json"; sourceTree = "<group>"; };
+		1BB01F9E6A8430515F64A3FE94CD7EED /* Fakery-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Fakery-umbrella.h"; sourceTree = "<group>"; };
+		1CE51C88F0C08335F3CF7F2511F42E2B /* App.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = App.swift; path = Sources/Fakery/Generators/App.swift; sourceTree = "<group>"; };
+		1E9B8C57C67D06B010C75F5BE2C0C7D7 /* zh-TW.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "zh-TW.json"; path = "Sources/Fakery/Resources/Locales/zh-TW.json"; sourceTree = "<group>"; };
+		308D48D6C0DE7F19D49734D10D2632BF /* tr-TR.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "tr-TR.json"; path = "Sources/Fakery/Resources/Locales/tr-TR.json"; sourceTree = "<group>"; };
+		3F31190619209745EB93AC71F3F9F7B3 /* sv.json */ = {isa = PBXFileReference; includeInIndex = 1; name = sv.json; path = Sources/Fakery/Resources/Locales/sv.json; sourceTree = "<group>"; };
+		40B87584ABD14147177AEB58BF008C15 /* Gender.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Gender.swift; path = Sources/Fakery/Generators/Gender.swift; sourceTree = "<group>"; };
+		42F05B7223BB397536F5618835FD01E3 /* Number.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Number.swift; path = Sources/Fakery/Generators/Number.swift; sourceTree = "<group>"; };
 		49F1A68FF5680E1C945A6A396DB967E5 /* Pods-SampleSkipUnspecifiedVersion-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SampleSkipUnspecifiedVersion-acknowledgements.plist"; sourceTree = "<group>"; };
-		4A7A6D9241E603BADDB4E9BC32A1C0AE /* nb-NO.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "nb-NO.json"; path = "Sources/Fakery/Resources/Locales/nb-NO.json"; sourceTree = "<group>"; };
-		4B0E051D69FB50CE9D20476F81F7991C /* Team.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Team.swift; path = Sources/Fakery/Generators/Team.swift; sourceTree = "<group>"; };
-		4B2DACA86CD78F1543AEBE39F21AC6D6 /* pl.json */ = {isa = PBXFileReference; includeInIndex = 1; name = pl.json; path = Sources/Fakery/Resources/Locales/pl.json; sourceTree = "<group>"; };
 		53CA7F013AC366B7FB8915F423AB0295 /* Pods-SampleSkipUnspecifiedVersion.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SampleSkipUnspecifiedVersion.release.xcconfig"; sourceTree = "<group>"; };
-		54106A6AB67279F86FFDC6B252E8CE81 /* PhoneNumber.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhoneNumber.swift; path = Sources/Fakery/Generators/PhoneNumber.swift; sourceTree = "<group>"; };
-		65A2577A7CED05A1FEEB4C60FA95F18D /* Fakery-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Fakery-dummy.m"; sourceTree = "<group>"; };
+		5A97ED2E4580FBDD47281904F89476D9 /* de-CH.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "de-CH.json"; path = "Sources/Fakery/Resources/Locales/de-CH.json"; sourceTree = "<group>"; };
+		5BEA6E133DD786A06A30CCF09E217806 /* en-IND.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-IND.json"; path = "Sources/Fakery/Resources/Locales/en-IND.json"; sourceTree = "<group>"; };
+		5BFC9F199136376285DFCAB23A7ACD99 /* Fakery.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Fakery.modulemap; sourceTree = "<group>"; };
+		5D808C39B861E5B4B2F21A76792E5D56 /* Fakery.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Fakery.release.xcconfig; sourceTree = "<group>"; };
+		5E51A729AA95E5D949D13D66F97E8401 /* es.json */ = {isa = PBXFileReference; includeInIndex = 1; name = es.json; path = Sources/Fakery/Resources/Locales/es.json; sourceTree = "<group>"; };
+		62BFD917ECCAD07FC18D47B88B40A78C /* ProgrammingLanguage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ProgrammingLanguage.swift; path = Sources/Fakery/Generators/ProgrammingLanguage.swift; sourceTree = "<group>"; };
+		681A5DE8DCE907892C129E6192821B87 /* Parser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Parser.swift; path = Sources/Fakery/Data/Parser.swift; sourceTree = "<group>"; };
+		69AD7E20FA1E7ADDE2614BE0FEA1F388 /* Vehicle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Vehicle.swift; path = Sources/Fakery/Generators/Vehicle.swift; sourceTree = "<group>"; };
+		6A59544FC5FA7F7DD65A3766D2830BEF /* de-AT.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "de-AT.json"; path = "Sources/Fakery/Resources/Locales/de-AT.json"; sourceTree = "<group>"; };
+		6B326F454B00B507C34463721BBAFD8A /* uk.json */ = {isa = PBXFileReference; includeInIndex = 1; name = uk.json; path = Sources/Fakery/Resources/Locales/uk.json; sourceTree = "<group>"; };
+		6C2446CC1B1B2092D2B56FFDD3D8E051 /* ResourceBundle-Faker-Fakery-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-Faker-Fakery-Info.plist"; sourceTree = "<group>"; };
 		6E165B5EA328672FD22454CABFC24096 /* Pods-SampleSkipUnspecifiedVersion-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SampleSkipUnspecifiedVersion-frameworks.sh"; sourceTree = "<group>"; };
-		72D02132290ECF4B6BD4C069B784E5B2 /* Zelda.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Zelda.swift; path = Sources/Fakery/Generators/Zelda.swift; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		7CEA1E6F97DB042201DEBEE1F0447A03 /* Fakery-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Fakery-umbrella.h"; sourceTree = "<group>"; };
-		7FF1692C28A9D26A5B8331D48A934BFB /* tr-TR.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "tr-TR.json"; path = "Sources/Fakery/Resources/Locales/tr-TR.json"; sourceTree = "<group>"; };
-		84819827F4D9798E879F1DF437AEFBF3 /* Lorem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Lorem.swift; path = Sources/Fakery/Generators/Lorem.swift; sourceTree = "<group>"; };
-		85C925BC5C5BCFCE305786C379D01389 /* fr.json */ = {isa = PBXFileReference; includeInIndex = 1; name = fr.json; path = Sources/Fakery/Resources/Locales/fr.json; sourceTree = "<group>"; };
-		863836A267F8D32579EE7575DA3B8D51 /* zh-TW.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "zh-TW.json"; path = "Sources/Fakery/Resources/Locales/zh-TW.json"; sourceTree = "<group>"; };
+		73A9E0A72A23C7987E9355FAFD35EDA4 /* Faker.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Faker.swift; path = Sources/Fakery/Faker.swift; sourceTree = "<group>"; };
+		78E035B5F779CB0B0C82B0E44AA26801 /* Name.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Name.swift; path = Sources/Fakery/Generators/Name.swift; sourceTree = "<group>"; };
+		7928D7DF9BB5F1BF2DEE99206B021EDD /* fr.json */ = {isa = PBXFileReference; includeInIndex = 1; name = fr.json; path = Sources/Fakery/Resources/Locales/fr.json; sourceTree = "<group>"; };
+		7F5577288B195B69122121262F15DDA7 /* en-GB.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-GB.json"; path = "Sources/Fakery/Resources/Locales/en-GB.json"; sourceTree = "<group>"; };
 		89191EEAD7EC05092BBA5B4183D61045 /* Pods-SampleSkipUnspecifiedVersion.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SampleSkipUnspecifiedVersion.debug.xcconfig"; sourceTree = "<group>"; };
-		8E195B7E9E1FB317333725FE46079233 /* Bank.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Bank.swift; path = Sources/Fakery/Generators/Bank.swift; sourceTree = "<group>"; };
-		92B22D37A91D1E3F17B84208A5F5CB9E /* Hobbit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Hobbit.swift; path = Sources/Fakery/Generators/Hobbit.swift; sourceTree = "<group>"; };
-		99CD2B1F979E892F530E5752F11A1E6B /* Number.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Number.swift; path = Sources/Fakery/Generators/Number.swift; sourceTree = "<group>"; };
-		9AA1CC42EC11837EF92A067A6BDA5B57 /* Address.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Address.swift; path = Sources/Fakery/Generators/Address.swift; sourceTree = "<group>"; };
+		89C87AFF4BD7EEFB0617CC4DEFA2A76F /* ArrayExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ArrayExtension.swift; path = Sources/Fakery/Extensions/ArrayExtension.swift; sourceTree = "<group>"; };
+		8C38BC77365A5913E1A4EA96AFD39706 /* Fakery.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Fakery.debug.xcconfig; sourceTree = "<group>"; };
+		9459461AC5C36EA02F1B547B334DF82D /* ko.json */ = {isa = PBXFileReference; includeInIndex = 1; name = ko.json; path = Sources/Fakery/Resources/Locales/ko.json; sourceTree = "<group>"; };
+		9491362E905649C893927EC1BE3FB742 /* en-TEST.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-TEST.json"; path = "Sources/Fakery/Resources/Locales/en-TEST.json"; sourceTree = "<group>"; };
+		95D15EB52F9672A62712C2A8C7C6538E /* it.json */ = {isa = PBXFileReference; includeInIndex = 1; name = it.json; path = Sources/Fakery/Resources/Locales/it.json; sourceTree = "<group>"; };
+		98D8DB2A55F647834D2CA3ABE3A951CA /* StringExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StringExtensions.swift; path = Sources/Fakery/Extensions/StringExtensions.swift; sourceTree = "<group>"; };
 		9B444C35FB201E08BDACCE34F76A615A /* Pods-SampleSkipUnspecifiedVersion-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SampleSkipUnspecifiedVersion-Info.plist"; sourceTree = "<group>"; };
+		9CBF8858FA53F201CDB24F09D2A9AC10 /* Business.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Business.swift; path = Sources/Fakery/Generators/Business.swift; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9E78E474942139FC51980CCDE79D6976 /* en-CA.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-CA.json"; path = "Sources/Fakery/Resources/Locales/en-CA.json"; sourceTree = "<group>"; };
-		A461F03FB61F324380B6F798CA027C35 /* es.json */ = {isa = PBXFileReference; includeInIndex = 1; name = es.json; path = Sources/Fakery/Resources/Locales/es.json; sourceTree = "<group>"; };
-		A46C000AFC8F36F30F2766D14D3ECBF0 /* Name.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Name.swift; path = Sources/Fakery/Generators/Name.swift; sourceTree = "<group>"; };
-		A73E8A1AC64290BE7B05A51E6999E163 /* it.json */ = {isa = PBXFileReference; includeInIndex = 1; name = it.json; path = Sources/Fakery/Resources/Locales/it.json; sourceTree = "<group>"; };
-		A982DD309D6B2D5764B2C06AD0A59F85 /* Internet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Internet.swift; path = Sources/Fakery/Generators/Internet.swift; sourceTree = "<group>"; };
-		A9DB36E3A8BEC601D6B82314136BB38C /* nl.json */ = {isa = PBXFileReference; includeInIndex = 1; name = nl.json; path = Sources/Fakery/Resources/Locales/nl.json; sourceTree = "<group>"; };
-		AC35BA60E18B9DFC4172DE99374170C2 /* de-CH.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "de-CH.json"; path = "Sources/Fakery/Resources/Locales/de-CH.json"; sourceTree = "<group>"; };
-		AC8FEEB76B2685BF7091A0DD0EC424CA /* ko.json */ = {isa = PBXFileReference; includeInIndex = 1; name = ko.json; path = Sources/Fakery/Resources/Locales/ko.json; sourceTree = "<group>"; };
-		AF76355FE88A677C52793940F3512582 /* en-GB.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-GB.json"; path = "Sources/Fakery/Resources/Locales/en-GB.json"; sourceTree = "<group>"; };
+		9E47E26579A0C7C1574D3C665FFAB8BA /* fa.json */ = {isa = PBXFileReference; includeInIndex = 1; name = fa.json; path = Sources/Fakery/Resources/Locales/fa.json; sourceTree = "<group>"; };
+		A55537741DC75D0DA172D97982936E44 /* nl.json */ = {isa = PBXFileReference; includeInIndex = 1; name = nl.json; path = Sources/Fakery/Resources/Locales/nl.json; sourceTree = "<group>"; };
+		A801915D7F7CD44A5913A3B4C53EE5A1 /* ja.json */ = {isa = PBXFileReference; includeInIndex = 1; name = ja.json; path = Sources/Fakery/Resources/Locales/ja.json; sourceTree = "<group>"; };
+		AB9E30FD734F2A1BE8FD272D322C6481 /* en-AU.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-AU.json"; path = "Sources/Fakery/Resources/Locales/en-AU.json"; sourceTree = "<group>"; };
+		AE1BCC66C7FF6F6362C90BADB99819AA /* Fakery-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Fakery-prefix.pch"; sourceTree = "<group>"; };
 		B0564869CDE3190E3BA3313A1E081CF1 /* Pods-SampleSkipUnspecifiedVersion-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SampleSkipUnspecifiedVersion-acknowledgements.markdown"; sourceTree = "<group>"; };
+		B311C73F1A6E1748B4BA7E26277BCCD3 /* House.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = House.swift; path = Sources/Fakery/Generators/House.swift; sourceTree = "<group>"; };
+		B69310EE3DCC2E6CE45E983C09327389 /* Cat.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Cat.swift; path = Sources/Fakery/Generators/Cat.swift; sourceTree = "<group>"; };
 		B79AA34C3E44658BBD32CCD247DCC9B7 /* Pods-SampleSkipUnspecifiedVersion-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SampleSkipUnspecifiedVersion-dummy.m"; sourceTree = "<group>"; };
-		B81E68F8DDF7A18500E9D230DE4312A7 /* Fakery.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Fakery.debug.xcconfig; sourceTree = "<group>"; };
-		BABB41A5280BEF42C23316B849383536 /* fa.json */ = {isa = PBXFileReference; includeInIndex = 1; name = fa.json; path = Sources/Fakery/Resources/Locales/fa.json; sourceTree = "<group>"; };
-		BB72AB25E229BCA6CCC0138D9D3BF7C3 /* Parser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Parser.swift; path = Sources/Fakery/Data/Parser.swift; sourceTree = "<group>"; };
-		BD1CD65874E030DAA586F991ACC670F3 /* Provider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Provider.swift; path = Sources/Fakery/Data/Provider.swift; sourceTree = "<group>"; };
+		BC7186D5EBD62531AD5770B85D243D18 /* sk.json */ = {isa = PBXFileReference; includeInIndex = 1; name = sk.json; path = Sources/Fakery/Resources/Locales/sk.json; sourceTree = "<group>"; };
+		BF8DCB9C17FB1A6CB9DF4A1772AA0FD7 /* en.json */ = {isa = PBXFileReference; includeInIndex = 1; name = en.json; path = Sources/Fakery/Resources/Locales/en.json; sourceTree = "<group>"; };
 		C15AF1DB6F42AEA3D0F50B1D8597D6A5 /* Pods-SampleSkipUnspecifiedVersion.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SampleSkipUnspecifiedVersion.modulemap"; sourceTree = "<group>"; };
-		CE9C312AE393E8832DA5EA61AFFC0FB0 /* Car.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Car.swift; path = Sources/Fakery/Generators/Car.swift; sourceTree = "<group>"; };
-		D216EFC5C4DE4D91FA1D488210514BF9 /* House.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = House.swift; path = Sources/Fakery/Generators/House.swift; sourceTree = "<group>"; };
+		C80435326A53158120FF9860F05F95FF /* Team.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Team.swift; path = Sources/Fakery/Generators/Team.swift; sourceTree = "<group>"; };
+		C9DDA22F098579D3778308F5F191D04A /* en-US.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-US.json"; path = "Sources/Fakery/Resources/Locales/en-US.json"; sourceTree = "<group>"; };
+		CB6F68C06F39EB6198FEFD1D1D117906 /* Internet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Internet.swift; path = Sources/Fakery/Generators/Internet.swift; sourceTree = "<group>"; };
+		D4755DF389FC4D312F5AC98603E63B9E /* Fakery-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Fakery-dummy.m"; sourceTree = "<group>"; };
+		D4EA9BF6A0AEA4DE431861FDB830C0BD /* zh-CN.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "zh-CN.json"; path = "Sources/Fakery/Resources/Locales/zh-CN.json"; sourceTree = "<group>"; };
 		D5D8DCE82423B84BBBEB4F148AB2875C /* Pods-SampleSkipUnspecifiedVersion-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SampleSkipUnspecifiedVersion-umbrella.h"; sourceTree = "<group>"; };
-		DE17AA6D4BE2733C3BF10E149831B09E /* en-IND.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-IND.json"; path = "Sources/Fakery/Resources/Locales/en-IND.json"; sourceTree = "<group>"; };
-		E3EF253E61BCF2C18672E35C1906F7C0 /* de-AT.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "de-AT.json"; path = "Sources/Fakery/Resources/Locales/de-AT.json"; sourceTree = "<group>"; };
-		E8A24290C5B16B8C147EFC0F37334196 /* Generator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Generator.swift; path = Sources/Fakery/Generators/Generator.swift; sourceTree = "<group>"; };
+		D8C0A8207D8BF6BF91795CC864159870 /* Lorem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Lorem.swift; path = Sources/Fakery/Generators/Lorem.swift; sourceTree = "<group>"; };
+		DA738EE7A2229BEB4633AFA0DDF6B0EA /* Address.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Address.swift; path = Sources/Fakery/Generators/Address.swift; sourceTree = "<group>"; };
+		DAD93A76210B5A4C82EA6FB35E15C259 /* Fakery-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Fakery-Info.plist"; sourceTree = "<group>"; };
+		DDC8A05274BF14DC6DEC2A961EE51B5D /* Config.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Config.swift; path = Sources/Fakery/Config.swift; sourceTree = "<group>"; };
+		DE8138B60FFB38A667672C6236E0EA92 /* Generator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Generator.swift; path = Sources/Fakery/Generators/Generator.swift; sourceTree = "<group>"; };
+		E293E2F75100AA4D45F92852C683C196 /* pl.json */ = {isa = PBXFileReference; includeInIndex = 1; name = pl.json; path = Sources/Fakery/Resources/Locales/pl.json; sourceTree = "<group>"; };
+		E69BA7B4B653A2F76058B94F1E992A5B /* Provider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Provider.swift; path = Sources/Fakery/Data/Provider.swift; sourceTree = "<group>"; };
+		E7A640E31A633A71671EBE35E1181464 /* Ham.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Ham.swift; path = Sources/Fakery/Generators/Ham.swift; sourceTree = "<group>"; };
+		EC74CCB0ED1B90DE5F3BD66E5A2F91F2 /* Commerce.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Commerce.swift; path = Sources/Fakery/Generators/Commerce.swift; sourceTree = "<group>"; };
 		EE482919F816E4621385E047A3F5F4CB /* Pods-SampleSkipUnspecifiedVersion */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-SampleSkipUnspecifiedVersion"; path = Pods_SampleSkipUnspecifiedVersion.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F1335E8E1E3B0E39E899A65EBBEDF791 /* Commerce.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Commerce.swift; path = Sources/Fakery/Generators/Commerce.swift; sourceTree = "<group>"; };
-		F28386CA1FC48FE2F179C90B6324FA02 /* Fakery-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Fakery-prefix.pch"; sourceTree = "<group>"; };
-		F819871BB0FCCB27268ECA69E2527939 /* Date.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Date.swift; path = Sources/Fakery/Generators/Date.swift; sourceTree = "<group>"; };
+		EF0158B18D24A1719B4AF3BF058074B5 /* pt-BR.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "pt-BR.json"; path = "Sources/Fakery/Resources/Locales/pt-BR.json"; sourceTree = "<group>"; };
+		F08341658AE5CFA4AB24AF01FF6C1ED5 /* Zelda.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Zelda.swift; path = Sources/Fakery/Generators/Zelda.swift; sourceTree = "<group>"; };
+		F1807078D13DB054583397C3CA24CB53 /* de.json */ = {isa = PBXFileReference; includeInIndex = 1; name = de.json; path = Sources/Fakery/Resources/Locales/de.json; sourceTree = "<group>"; };
+		F25E90810FBC5C54E19086AA71812516 /* Hobbit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Hobbit.swift; path = Sources/Fakery/Generators/Hobbit.swift; sourceTree = "<group>"; };
+		F2DCB3AA09BDF305A01AAE0112486EC5 /* Date.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Date.swift; path = Sources/Fakery/Generators/Date.swift; sourceTree = "<group>"; };
 		FB9EDEF446E3F7D484CA4B8085AFEAA6 /* Fakery-Faker */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Fakery-Faker"; path = Faker.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		FD1FF9DD9F1DC870730BA76C7CD5DAC3 /* en.json */ = {isa = PBXFileReference; includeInIndex = 1; name = en.json; path = Sources/Fakery/Resources/Locales/en.json; sourceTree = "<group>"; };
+		FD6D41C06A6127723C04F1887751A647 /* Car.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Car.swift; path = Sources/Fakery/Generators/Car.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1A4033B5849C613F3A137EC103F42F99 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				25CABB215FD729405B9549D2784D931B /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		27A59FB15E58BF88E1C053AAA3065983 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -214,10 +179,18 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6EA245BB4F7E7B2C3FCD51948AC28996 /* Frameworks */ = {
+		53988B7733FFAA8C9FF7879FF5A67CB4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8D9060596D593D9F665CD33F522432C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8FFE4F68EE2107D142520CEC8B09BCB1 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,11 +222,43 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		577C64DC6AB64C00945A348237452B0E /* Resources */ = {
+		49E23875C934A66B4C6E068488625D1D /* Fakery */ = {
 			isa = PBXGroup;
 			children = (
+				DA738EE7A2229BEB4633AFA0DDF6B0EA /* Address.swift */,
+				1CE51C88F0C08335F3CF7F2511F42E2B /* App.swift */,
+				89C87AFF4BD7EEFB0617CC4DEFA2A76F /* ArrayExtension.swift */,
+				187535854FBE1A69401AEE1435E5D3B5 /* Bank.swift */,
+				9CBF8858FA53F201CDB24F09D2A9AC10 /* Business.swift */,
+				FD6D41C06A6127723C04F1887751A647 /* Car.swift */,
+				B69310EE3DCC2E6CE45E983C09327389 /* Cat.swift */,
+				EC74CCB0ED1B90DE5F3BD66E5A2F91F2 /* Commerce.swift */,
+				1398E8330D46AB3A757E1804CD1289B0 /* Company.swift */,
+				DDC8A05274BF14DC6DEC2A961EE51B5D /* Config.swift */,
+				F2DCB3AA09BDF305A01AAE0112486EC5 /* Date.swift */,
+				73A9E0A72A23C7987E9355FAFD35EDA4 /* Faker.swift */,
+				40B87584ABD14147177AEB58BF008C15 /* Gender.swift */,
+				DE8138B60FFB38A667672C6236E0EA92 /* Generator.swift */,
+				E7A640E31A633A71671EBE35E1181464 /* Ham.swift */,
+				F25E90810FBC5C54E19086AA71812516 /* Hobbit.swift */,
+				B311C73F1A6E1748B4BA7E26277BCCD3 /* House.swift */,
+				CB6F68C06F39EB6198FEFD1D1D117906 /* Internet.swift */,
+				D8C0A8207D8BF6BF91795CC864159870 /* Lorem.swift */,
+				78E035B5F779CB0B0C82B0E44AA26801 /* Name.swift */,
+				42F05B7223BB397536F5618835FD01E3 /* Number.swift */,
+				681A5DE8DCE907892C129E6192821B87 /* Parser.swift */,
+				152AC5266AA190736ACC57765255B2EC /* PhoneNumber.swift */,
+				62BFD917ECCAD07FC18D47B88B40A78C /* ProgrammingLanguage.swift */,
+				E69BA7B4B653A2F76058B94F1E992A5B /* Provider.swift */,
+				98D8DB2A55F647834D2CA3ABE3A951CA /* StringExtensions.swift */,
+				C80435326A53158120FF9860F05F95FF /* Team.swift */,
+				69AD7E20FA1E7ADDE2614BE0FEA1F388 /* Vehicle.swift */,
+				F08341658AE5CFA4AB24AF01FF6C1ED5 /* Zelda.swift */,
+				F1B16C5FE81F5C859135E6D7B06B2A69 /* Resources */,
+				B926276E3846A3008149EC640B56A17E /* Support Files */,
 			);
-			name = Resources;
+			name = Fakery;
+			path = Fakery;
 			sourceTree = "<group>";
 		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
@@ -264,94 +269,20 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		5D3CCB48F54526516B414752C283FB81 /* Fakery */ = {
+		B926276E3846A3008149EC640B56A17E /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				9AA1CC42EC11837EF92A067A6BDA5B57 /* Address.swift */,
-				165117ABE14F4BB74D223068A00CE261 /* App.swift */,
-				330ED2ED50EC859BAE543F759D500646 /* ArrayExtension.swift */,
-				8E195B7E9E1FB317333725FE46079233 /* Bank.swift */,
-				409536CD81D61E38D80567CAB41CC878 /* Business.swift */,
-				CE9C312AE393E8832DA5EA61AFFC0FB0 /* Car.swift */,
-				3CC9C087210927E04E2070B0663FE07C /* Cat.swift */,
-				F1335E8E1E3B0E39E899A65EBBEDF791 /* Commerce.swift */,
-				3A3BE94D6EABBB5787F26849132C9594 /* Company.swift */,
-				35AEE09C8DCB394C3E09966EAEEC5EF9 /* Config.swift */,
-				F819871BB0FCCB27268ECA69E2527939 /* Date.swift */,
-				1F223CA7A74972C5430305CB12BE467F /* de.json */,
-				E3EF253E61BCF2C18672E35C1906F7C0 /* de-AT.json */,
-				AC35BA60E18B9DFC4172DE99374170C2 /* de-CH.json */,
-				FD1FF9DD9F1DC870730BA76C7CD5DAC3 /* en.json */,
-				05FB219667B76D185541A786D370C64B /* en-AU.json */,
-				9E78E474942139FC51980CCDE79D6976 /* en-CA.json */,
-				AF76355FE88A677C52793940F3512582 /* en-GB.json */,
-				DE17AA6D4BE2733C3BF10E149831B09E /* en-IND.json */,
-				0CAFB21C4062C2BE58C36079A5389F0E /* en-TEST.json */,
-				2D4E9B95E9DF3A61D4A367D1AFCAF9D3 /* en-US.json */,
-				A461F03FB61F324380B6F798CA027C35 /* es.json */,
-				BABB41A5280BEF42C23316B849383536 /* fa.json */,
-				17A1651FB5B9CC6491AF10D6CF49B4B4 /* Faker.swift */,
-				85C925BC5C5BCFCE305786C379D01389 /* fr.json */,
-				02E67E1AF0F1733860D1893D7B76192D /* Gender.swift */,
-				E8A24290C5B16B8C147EFC0F37334196 /* Generator.swift */,
-				3EDEF0F8005C44DDE2D14B3614D6111D /* Ham.swift */,
-				92B22D37A91D1E3F17B84208A5F5CB9E /* Hobbit.swift */,
-				D216EFC5C4DE4D91FA1D488210514BF9 /* House.swift */,
-				A982DD309D6B2D5764B2C06AD0A59F85 /* Internet.swift */,
-				A73E8A1AC64290BE7B05A51E6999E163 /* it.json */,
-				413DD38337AB10C3C1F6AF394AF7DF4E /* ja.json */,
-				AC8FEEB76B2685BF7091A0DD0EC424CA /* ko.json */,
-				84819827F4D9798E879F1DF437AEFBF3 /* Lorem.swift */,
-				A46C000AFC8F36F30F2766D14D3ECBF0 /* Name.swift */,
-				4A7A6D9241E603BADDB4E9BC32A1C0AE /* nb-NO.json */,
-				A9DB36E3A8BEC601D6B82314136BB38C /* nl.json */,
-				99CD2B1F979E892F530E5752F11A1E6B /* Number.swift */,
-				BB72AB25E229BCA6CCC0138D9D3BF7C3 /* Parser.swift */,
-				54106A6AB67279F86FFDC6B252E8CE81 /* PhoneNumber.swift */,
-				4B2DACA86CD78F1543AEBE39F21AC6D6 /* pl.json */,
-				3C934EE050746C7BAE0C540080244B33 /* ProgrammingLanguage.swift */,
-				BD1CD65874E030DAA586F991ACC670F3 /* Provider.swift */,
-				1A4EDB61D3E6DF86FA46C89445AD448A /* pt-BR.json */,
-				443D4432CF3A8BDD112CDED38AF5E1F1 /* ru.json */,
-				137EDE86296A5039DEBA6C28EA2047D9 /* sk.json */,
-				16352E5479F5921F1961837BA5D69D92 /* StringExtensions.swift */,
-				3354E3DB4E4C67053E38D54BA210A921 /* sv.json */,
-				4B0E051D69FB50CE9D20476F81F7991C /* Team.swift */,
-				7FF1692C28A9D26A5B8331D48A934BFB /* tr-TR.json */,
-				145304F94B056DE75E2EF174C62CC96A /* uk.json */,
-				2AA831E9682CD6FDDD8D46C8E1853CB6 /* Vehicle.swift */,
-				72D02132290ECF4B6BD4C069B784E5B2 /* Zelda.swift */,
-				009A698D63BE1141E55E2A6925441A35 /* zh-CN.json */,
-				863836A267F8D32579EE7575DA3B8D51 /* zh-TW.json */,
-				577C64DC6AB64C00945A348237452B0E /* Resources */,
-				73B23D687A521F0D99BF2E7AFF05AEA0 /* Support Files */,
-			);
-			name = Fakery;
-			path = Fakery;
-			sourceTree = "<group>";
-		};
-		73B23D687A521F0D99BF2E7AFF05AEA0 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				45DA607B28C8DA0CA9351EFD0F2636D4 /* Fakery.modulemap */,
-				65A2577A7CED05A1FEEB4C60FA95F18D /* Fakery-dummy.m */,
-				3FF148BB110BB873485668C8D2816BA4 /* Fakery-Info.plist */,
-				F28386CA1FC48FE2F179C90B6324FA02 /* Fakery-prefix.pch */,
-				7CEA1E6F97DB042201DEBEE1F0447A03 /* Fakery-umbrella.h */,
-				B81E68F8DDF7A18500E9D230DE4312A7 /* Fakery.debug.xcconfig */,
-				450DEF5A038971920CA02CCC58B04229 /* Fakery.release.xcconfig */,
-				26F0A28CB20AFE3357E064787FA14BB3 /* ResourceBundle-Faker-Fakery-Info.plist */,
+				5BFC9F199136376285DFCAB23A7ACD99 /* Fakery.modulemap */,
+				D4755DF389FC4D312F5AC98603E63B9E /* Fakery-dummy.m */,
+				DAD93A76210B5A4C82EA6FB35E15C259 /* Fakery-Info.plist */,
+				AE1BCC66C7FF6F6362C90BADB99819AA /* Fakery-prefix.pch */,
+				1BB01F9E6A8430515F64A3FE94CD7EED /* Fakery-umbrella.h */,
+				8C38BC77365A5913E1A4EA96AFD39706 /* Fakery.debug.xcconfig */,
+				5D808C39B861E5B4B2F21A76792E5D56 /* Fakery.release.xcconfig */,
+				6C2446CC1B1B2092D2B56FFDD3D8E051 /* ResourceBundle-Faker-Fakery-Info.plist */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/Fakery";
-			sourceTree = "<group>";
-		};
-		763FBD42C8831C90ECCE480DCFD4D428 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				5D3CCB48F54526516B414752C283FB81 /* Fakery */,
-			);
-			name = Pods;
 			sourceTree = "<group>";
 		};
 		C2E7E8DD54965246DDA931411970FD4C /* Products */ = {
@@ -364,12 +295,20 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		CA9F28C3096AF9611A380335FE2007EB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				49E23875C934A66B4C6E068488625D1D /* Fakery */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
-				763FBD42C8831C90ECCE480DCFD4D428 /* Pods */,
+				CA9F28C3096AF9611A380335FE2007EB /* Pods */,
 				C2E7E8DD54965246DDA931411970FD4C /* Products */,
 				2569C276D42D9092CAF5AB18A3481E89 /* Targets Support Files */,
 			);
@@ -383,6 +322,40 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		F1B16C5FE81F5C859135E6D7B06B2A69 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F1807078D13DB054583397C3CA24CB53 /* de.json */,
+				6A59544FC5FA7F7DD65A3766D2830BEF /* de-AT.json */,
+				5A97ED2E4580FBDD47281904F89476D9 /* de-CH.json */,
+				BF8DCB9C17FB1A6CB9DF4A1772AA0FD7 /* en.json */,
+				AB9E30FD734F2A1BE8FD272D322C6481 /* en-AU.json */,
+				19F974AF1A6CFBA49E9C01EE7938D023 /* en-CA.json */,
+				7F5577288B195B69122121262F15DDA7 /* en-GB.json */,
+				5BEA6E133DD786A06A30CCF09E217806 /* en-IND.json */,
+				9491362E905649C893927EC1BE3FB742 /* en-TEST.json */,
+				C9DDA22F098579D3778308F5F191D04A /* en-US.json */,
+				5E51A729AA95E5D949D13D66F97E8401 /* es.json */,
+				9E47E26579A0C7C1574D3C665FFAB8BA /* fa.json */,
+				7928D7DF9BB5F1BF2DEE99206B021EDD /* fr.json */,
+				95D15EB52F9672A62712C2A8C7C6538E /* it.json */,
+				A801915D7F7CD44A5913A3B4C53EE5A1 /* ja.json */,
+				9459461AC5C36EA02F1B547B334DF82D /* ko.json */,
+				1B24F23A930FB83E9DC3EA8FEA5488CD /* nb-NO.json */,
+				A55537741DC75D0DA172D97982936E44 /* nl.json */,
+				E293E2F75100AA4D45F92852C683C196 /* pl.json */,
+				EF0158B18D24A1719B4AF3BF058074B5 /* pt-BR.json */,
+				171A2A3457E3EE3ABF745FDFBA15FEA2 /* ru.json */,
+				BC7186D5EBD62531AD5770B85D243D18 /* sk.json */,
+				3F31190619209745EB93AC71F3F9F7B3 /* sv.json */,
+				308D48D6C0DE7F19D49734D10D2632BF /* tr-TR.json */,
+				6B326F454B00B507C34463721BBAFD8A /* uk.json */,
+				D4EA9BF6A0AEA4DE431861FDB830C0BD /* zh-CN.json */,
+				1E9B8C57C67D06B010C75F5BE2C0C7D7 /* zh-TW.json */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -394,11 +367,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3C3698723F32C637912B206428CD21E0 /* Headers */ = {
+		D6DA02D06EE308098A51CC716866C563 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6C4FFB94C624350590934B1E6A344D28 /* Fakery-umbrella.h in Headers */,
+				4BD752EC89F7F71831D0D9FD188E3428 /* Fakery-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,17 +380,17 @@
 /* Begin PBXNativeTarget section */
 		0E0176CCA7C8C85C89BC1E45EA82145D /* Fakery */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 08ED020B8DD124C093E3A09C42E4523B /* Build configuration list for PBXNativeTarget "Fakery" */;
+			buildConfigurationList = A15DBA404FB76AC43AD11A8A0E9D1FE9 /* Build configuration list for PBXNativeTarget "Fakery" */;
 			buildPhases = (
-				3C3698723F32C637912B206428CD21E0 /* Headers */,
-				BCD0D3CD5719BD96316D6A8B3F0E6B3C /* Sources */,
-				1A4033B5849C613F3A137EC103F42F99 /* Frameworks */,
-				9AC715AFDC6EF9F5CD7CACF0E06DA805 /* Resources */,
+				D6DA02D06EE308098A51CC716866C563 /* Headers */,
+				E388451D57542D433FB8925262CEEA11 /* Sources */,
+				D8D9060596D593D9F665CD33F522432C /* Frameworks */,
+				C2A667D478C41C530A9427D5DC740DE4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				10327F49AB7AE510ED7C7CDA2471B517 /* PBXTargetDependency */,
+				60DF04829384C76843AF12779034CDD3 /* PBXTargetDependency */,
 			);
 			name = Fakery;
 			productName = Fakery;
@@ -426,11 +399,11 @@
 		};
 		1DABA95AD7151E245831A4517CAD760C /* Fakery-Faker */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 25C5635EDC2FD450A5926511611D8BA1 /* Build configuration list for PBXNativeTarget "Fakery-Faker" */;
+			buildConfigurationList = C7D6529974E31C1990F50D570FEAE5FB /* Build configuration list for PBXNativeTarget "Fakery-Faker" */;
 			buildPhases = (
-				A2FEF82622C98159FD5928F432BBB5FC /* Sources */,
-				6EA245BB4F7E7B2C3FCD51948AC28996 /* Frameworks */,
-				F43892CE06982D657AF4755FBF3920F4 /* Resources */,
+				6654B422040668ACCF1275F8101B9F1C /* Sources */,
+				53988B7733FFAA8C9FF7879FF5A67CB4 /* Frameworks */,
+				DF314D41F25F69FF26904FDB0B55E7C7 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -497,119 +470,55 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9AC715AFDC6EF9F5CD7CACF0E06DA805 /* Resources */ = {
+		C2A667D478C41C530A9427D5DC740DE4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				67729F0D2FDC3A5D559DD7CBC1AB28F0 /* Fakery-Faker in Resources */,
+				5FE06459D3339A5F238C5DCE16FFA595 /* Fakery-Faker in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F43892CE06982D657AF4755FBF3920F4 /* Resources */ = {
+		DF314D41F25F69FF26904FDB0B55E7C7 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3D1421A341B7BADD69E254CFCC89070F /* de.json in Resources */,
-				AEF3BA47A9DBD5E47E33AEDD2B7B82CF /* de-AT.json in Resources */,
-				DC9E023085A1B96DD85E2C91F2E19369 /* de-CH.json in Resources */,
-				BA0434B1BF7C4FC28D89DCF8229B0B76 /* en.json in Resources */,
-				09544EC4FCF5C342DE743D5FFE9F16AD /* en-AU.json in Resources */,
-				4EBDCF2F57EDAFA64E493D735E1E3F28 /* en-CA.json in Resources */,
-				78D2262D34D8D11DEF852A29074E0490 /* en-GB.json in Resources */,
-				85B93A5CE52D63259DD2CA3D69142FF8 /* en-IND.json in Resources */,
-				A8889DEF79AEAF8A9EE060C36F7C16F9 /* en-TEST.json in Resources */,
-				CA7CA7F8136D621DF9284482E712F3D8 /* en-US.json in Resources */,
-				216328786C10FE3419C30AAB8575550D /* es.json in Resources */,
-				09D8DD161424C572BEC190A970072B85 /* fa.json in Resources */,
-				DCB6791BF127BB21FE95DEFEF64C63B1 /* fr.json in Resources */,
-				4D0663DDFBED3F35482C28A0792E8BC6 /* it.json in Resources */,
-				08EE4295C559DBE504FA6C90A1D74DDA /* ja.json in Resources */,
-				537300E9D3E67A1A06DF9EFB8B6642CD /* ko.json in Resources */,
-				3F33FB2DF8C33722A7B2661BBA5EBEE5 /* nb-NO.json in Resources */,
-				22AF17F03020EB3A033B478BDCB710EB /* nl.json in Resources */,
-				82BC51B438434AC59C4DA5880B3A935D /* pl.json in Resources */,
-				F8B67070DF1395B310C59FEDC2788A4C /* pt-BR.json in Resources */,
-				F034177B1012501CE04680FB142E60E0 /* ru.json in Resources */,
-				E6577CF88FFCB1278093F312F18E9873 /* sk.json in Resources */,
-				FE6B40158AB1C78430FA5CE461EFAB29 /* sv.json in Resources */,
-				58CE6B3B6E716F6820C32CF490F07ACA /* tr-TR.json in Resources */,
-				69FB594FD3E4A9A0E66D0A4A43D0350F /* uk.json in Resources */,
-				C671FE1AD6541A31FE1B1054B82416AB /* zh-CN.json in Resources */,
-				050F6E5D4BDA4B17538EF77D5C976F9E /* zh-TW.json in Resources */,
+				2C80E768A54533753E113A746C615C06 /* de.json in Resources */,
+				CD79B0B5097D90CC2502C38ED8700FE4 /* de-AT.json in Resources */,
+				7B879ADA5EE4DB762B99F443B3F40AF4 /* de-CH.json in Resources */,
+				BC6DE7AC18B0A380DA02E45CEB9EC8B5 /* en.json in Resources */,
+				5BAA92A45C1425CB32B4B219CB523C1F /* en-AU.json in Resources */,
+				A1FF6D2E15B6E9EB019BF73BD4034159 /* en-CA.json in Resources */,
+				803DE04C09A38891599A58D9CF8463EF /* en-GB.json in Resources */,
+				9D12500D97C775574D51F5961C751998 /* en-IND.json in Resources */,
+				958829A08A858C03B48F3E14667B2A5B /* en-TEST.json in Resources */,
+				55501B94285895202D9B3B572DB7C3A8 /* en-US.json in Resources */,
+				9D49097FBB0B6A5C512BFAEB186D3FF1 /* es.json in Resources */,
+				0BF94D4C261F8E65DC702712455762EA /* fa.json in Resources */,
+				B62CE8D4BC992DD916FA344B32C4BB0D /* fr.json in Resources */,
+				5E32BB034409E08014C1C04FCBFFF7E1 /* it.json in Resources */,
+				CDF3429FBE28445C2020B43E621AA6AC /* ja.json in Resources */,
+				EBDF1CFBDD900108DAF46F295111122D /* ko.json in Resources */,
+				192ED78887920CA1B7307C655DE1A0DA /* nb-NO.json in Resources */,
+				B0FF2F48282056FFA1B65DCCAC28AA8F /* nl.json in Resources */,
+				F24B01F76E42420851E1F97119D47F40 /* pl.json in Resources */,
+				CEE08D1646F84492159654CBA8472764 /* pt-BR.json in Resources */,
+				B57B99A4243D1D041BBE4F99784BB428 /* ru.json in Resources */,
+				86B0DA5B43A4C234632FE5FE0A77CC83 /* sk.json in Resources */,
+				5720EE492DCA054ED50273114D569158 /* sv.json in Resources */,
+				B80D3A3F541BB577ED51D0727DDD4324 /* tr-TR.json in Resources */,
+				4907EB737BC4587F6413ACB00E0B1682 /* uk.json in Resources */,
+				CFCA1BA9FAB223410E430BC3AF0DA5C3 /* zh-CN.json in Resources */,
+				8A70460B8A890DC1E3D27B7C3B6D61A3 /* zh-TW.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A2FEF82622C98159FD5928F432BBB5FC /* Sources */ = {
+		6654B422040668ACCF1275F8101B9F1C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		BCD0D3CD5719BD96316D6A8B3F0E6B3C /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				1A31055CF74BED2540A618DAC33BB16D /* Address.swift in Sources */,
-				95E3EAD54809AF46C9334B856B4F5423 /* App.swift in Sources */,
-				B38ACF3C195F338D868409D14B58EFD4 /* ArrayExtension.swift in Sources */,
-				1CA986916BDB19EDF63B6725C90B3162 /* Bank.swift in Sources */,
-				ADDEDE9FA68A1FE419A31A9E3D02691C /* Business.swift in Sources */,
-				95958D862CC652B04D36C98689B0FC76 /* Car.swift in Sources */,
-				4E7C8611BC71B941E4244B1C531718BF /* Cat.swift in Sources */,
-				A4C85AF1080B0B620D7BAC3228B8FB61 /* Commerce.swift in Sources */,
-				0D5812F650162542DBBC0C13B7B2BD3D /* Company.swift in Sources */,
-				2952280C17FA12BB6DFFE77E0A6787B1 /* Config.swift in Sources */,
-				1E4679EDFC4C7DB4E610E2773809A9F1 /* Date.swift in Sources */,
-				FC2ED097AFFA1D81E028DB03EC6094C4 /* de.json in Sources */,
-				DED0ADC8CB556F2FFE6A406035A3A7C4 /* de-AT.json in Sources */,
-				C4F14954B8C81FE2B5F0FA9EB2E65F08 /* de-CH.json in Sources */,
-				AF9F56FEF285B7DCDF9647A806434A00 /* en.json in Sources */,
-				4AAF9938B5EBDEE3F3B639CEEB6F2790 /* en-AU.json in Sources */,
-				D0A364154E0EB00778A8AE269150FC29 /* en-CA.json in Sources */,
-				FA02414075D7C905F0CC2F3E7413A49E /* en-GB.json in Sources */,
-				C7CD38E2B8A31F650B06317BA8202C3A /* en-IND.json in Sources */,
-				9C876AE92859649D4133EE6CC25B9836 /* en-TEST.json in Sources */,
-				94AAEBFC1282B2758E06E14AE4EA7E80 /* en-US.json in Sources */,
-				A9BD45BD933841A8DF51D705C2ADFF4B /* es.json in Sources */,
-				44C7B66EEF1E00BC78D3D520DB7884E9 /* fa.json in Sources */,
-				A426EFFFB866902FF080DC16D96A530B /* Faker.swift in Sources */,
-				E919D0333ACE4FC3DCAFA046CEC43D21 /* Fakery-dummy.m in Sources */,
-				FA3CC23558EE2C7A9357B5FE8CF15884 /* fr.json in Sources */,
-				3A7A8C7C3B200441A6C9834222E780C9 /* Gender.swift in Sources */,
-				E4E24D347B66BEEBD107592D1A7A9E82 /* Generator.swift in Sources */,
-				0C15D9BAEB8F4C46413EC0E55CAAE7CA /* Ham.swift in Sources */,
-				A2A713D41055D7BCBCAAB45F524D1B93 /* Hobbit.swift in Sources */,
-				F8180C2DABE3B3AEA4AD4C16BF1FF545 /* House.swift in Sources */,
-				02C891331D97E2FB0FC426AC6553005F /* Internet.swift in Sources */,
-				D1D6086D52DDA3ADBA4E7D44E40A5253 /* it.json in Sources */,
-				44EC99D64A39CC63B52EACBFAC044C6E /* ja.json in Sources */,
-				CCEFD0AA74B98A16EDDC8AD2CA88C23E /* ko.json in Sources */,
-				049E9EB0496E9054B66CE45AC0979269 /* Lorem.swift in Sources */,
-				BA27CB6540B9E1AC5F6DF9C53DAA1F0B /* Name.swift in Sources */,
-				47C2AA08042D173762DBE0C4EAB85DF9 /* nb-NO.json in Sources */,
-				0802BF7F60218873A25F6D7D11DFE289 /* nl.json in Sources */,
-				B223E83EBB9F559B241C8017EB1BA044 /* Number.swift in Sources */,
-				357E0717EBF887A9C4EBE87C5D9A3596 /* Parser.swift in Sources */,
-				5113AC128D740BC4066C2015FCE35876 /* PhoneNumber.swift in Sources */,
-				6171E628D2ACF1CB35E4F6630C8A8994 /* pl.json in Sources */,
-				F1BA3C3C711575C048CAEDA5D36CA074 /* ProgrammingLanguage.swift in Sources */,
-				4228F62D9C5DF0B3E2EEC063F2ECFEB2 /* Provider.swift in Sources */,
-				D251F21F083A049AC486FE481A49AF1E /* pt-BR.json in Sources */,
-				61FDDF58283F7EC91328EB50DFF6FA27 /* ru.json in Sources */,
-				E94F348A4F1D6FDDC6518D5760063393 /* sk.json in Sources */,
-				D5682091B061A02C26B79C963015A823 /* StringExtensions.swift in Sources */,
-				AD939409330445E7FC5F3DB3CAADABFB /* sv.json in Sources */,
-				818A96DD23FC99A5EE1D297E713C4D82 /* Team.swift in Sources */,
-				E8C4BCFA669382183489629C16620551 /* tr-TR.json in Sources */,
-				F9DD4C3ED29FD43B246E4439154F0407 /* uk.json in Sources */,
-				335A73CEA00EB04698430AD7DAC14461 /* Vehicle.swift in Sources */,
-				47B041224A533CD6644AA02E1BCE5AD2 /* Zelda.swift in Sources */,
-				E9E615AB41DF65D524F61B3233E03F0E /* zh-CN.json in Sources */,
-				FC07D57AA2BA585D8EBDA8043AAFE2AE /* zh-TW.json in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -621,20 +530,57 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		E388451D57542D433FB8925262CEEA11 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				23CBDCFDEA8F54E68F5F8660EA323812 /* Address.swift in Sources */,
+				84C6849DB495F258DC144FCD4229C800 /* App.swift in Sources */,
+				9DF98822622B6048C182C9E698A8A8F4 /* ArrayExtension.swift in Sources */,
+				356C9D44622D1B8A0CC3364FF8CF5358 /* Bank.swift in Sources */,
+				2AAE0F17A4CEFB973AB94D5F3A54237E /* Business.swift in Sources */,
+				4B126831E86E4ABDFCB3BF5CBEBDBEC4 /* Car.swift in Sources */,
+				340EF4D096E651EBC0404111476A3026 /* Cat.swift in Sources */,
+				AB8007D78250DF870B76632A0919D213 /* Commerce.swift in Sources */,
+				76E64E7C840638D6CFFAD59417080C35 /* Company.swift in Sources */,
+				2D0D6E2F3E6CECC985BC4DE748BED37F /* Config.swift in Sources */,
+				77E12B5F77FB4E3F30872480FD4FF297 /* Date.swift in Sources */,
+				0229605A67E073F0D57BD1792AD2C967 /* Faker.swift in Sources */,
+				25BD2CC88D65677450F4A5098C9B0F36 /* Fakery-dummy.m in Sources */,
+				BFF00B313C14E4DF6E77689B47E5DE8D /* Gender.swift in Sources */,
+				53B55DA1B9BB95E234278008589BD362 /* Generator.swift in Sources */,
+				08045BCAAA4AFD6260B461E8C9332A04 /* Ham.swift in Sources */,
+				3CF95B7CF15651DCC4A2EBCDADA91FD1 /* Hobbit.swift in Sources */,
+				716B511ACB7F46C28C4D614E788A86D1 /* House.swift in Sources */,
+				CC6B1D781B0974F4EA95EB46C18F12D6 /* Internet.swift in Sources */,
+				D1F4E490896454F310AD1498E7A32976 /* Lorem.swift in Sources */,
+				A8F50FA2CDB5882C2B0CEE4ABC4B88E0 /* Name.swift in Sources */,
+				B7F0581669F39DDCC81C6D317464F249 /* Number.swift in Sources */,
+				D9906FB1C158FF6A6062107E8AD9E1B0 /* Parser.swift in Sources */,
+				BB1DB9E7B618599D69921D04A86E8667 /* PhoneNumber.swift in Sources */,
+				5BF6163B6D78E8F97A9F80C297D8E221 /* ProgrammingLanguage.swift in Sources */,
+				F3C8F0F25549B41CB5D19909D5AB1B69 /* Provider.swift in Sources */,
+				EDC88296D63AF33112DE40AAA7476051 /* StringExtensions.swift in Sources */,
+				08CD2A803DE28D2E5B99C596F6EFDE4E /* Team.swift in Sources */,
+				E20DD20CAC5B76A8B73C88E358BB78B4 /* Vehicle.swift in Sources */,
+				01AC126130B7BB34BF98E018AEACB99E /* Zelda.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		10327F49AB7AE510ED7C7CDA2471B517 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Fakery-Faker";
-			target = 1DABA95AD7151E245831A4517CAD760C /* Fakery-Faker */;
-			targetProxy = BEE11096DD983B3D308C99E491851746 /* PBXContainerItemProxy */;
-		};
 		416A30336AE2BD70BB76FADF407486DA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Fakery;
 			target = 0E0176CCA7C8C85C89BC1E45EA82145D /* Fakery */;
 			targetProxy = B682851CB92E64AACEA1ED8352582155 /* PBXContainerItemProxy */;
+		};
+		60DF04829384C76843AF12779034CDD3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Fakery-Faker";
+			target = 1DABA95AD7151E245831A4517CAD760C /* Fakery-Faker */;
+			targetProxy = F33AC64C94A7B805F9E1E9C8E58C36FE /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -670,6 +616,40 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		2BED2799EB8215E5F18922960BAD4C1D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8C38BC77365A5913E1A4EA96AFD39706 /* Fakery.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Fakery/Fakery-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Fakery/Fakery-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/Fakery/Fakery.modulemap";
+				PRODUCT_MODULE_NAME = Fakery;
+				PRODUCT_NAME = Fakery;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -742,6 +722,22 @@
 			};
 			name = Debug;
 		};
+		49B8DAD8CF779F9CFCE4FDE35DD65418 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5D808C39B861E5B4B2F21A76792E5D56 /* Fakery.release.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Fakery";
+				IBSC_MODULE = Fakery;
+				INFOPLIST_FILE = "Target Support Files/Fakery/ResourceBundle-Faker-Fakery-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = Faker;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
 		5D47E2EFAC6FAC81A782D9BFD8736F53 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -804,43 +800,9 @@
 			};
 			name = Release;
 		};
-		738142A8ACE653D5FCE96FF7AC6F6302 /* Debug */ = {
+		B64D71758905CD1A20CCD22F0B517D9F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B81E68F8DDF7A18500E9D230DE4312A7 /* Fakery.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/Fakery/Fakery-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Fakery/Fakery-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/Fakery/Fakery.modulemap";
-				PRODUCT_MODULE_NAME = Fakery;
-				PRODUCT_NAME = Fakery;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		CD9E7B8A66237963F7E3DF6D497E5641 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 450DEF5A038971920CA02CCC58B04229 /* Fakery.release.xcconfig */;
+			baseConfigurationReference = 8C38BC77365A5913E1A4EA96AFD39706 /* Fakery.debug.xcconfig */;
 			buildSettings = {
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Fakery";
 				IBSC_MODULE = Fakery;
@@ -852,7 +814,7 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = bundle;
 			};
-			name = Release;
+			name = Debug;
 		};
 		E149F5AA4CE06C7FB2F52F4ECB9EB481 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -892,9 +854,9 @@
 			};
 			name = Release;
 		};
-		E98CE3E4170AFFFDE5E66F9A65A24F02 /* Release */ = {
+		E326D14FD734C3718F6B6F88D07EDD78 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 450DEF5A038971920CA02CCC58B04229 /* Fakery.release.xcconfig */;
+			baseConfigurationReference = 5D808C39B861E5B4B2F21A76792E5D56 /* Fakery.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -927,43 +889,9 @@
 			};
 			name = Release;
 		};
-		EE8D514B3BFCD7AB7224D09A0B577ADE /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = B81E68F8DDF7A18500E9D230DE4312A7 /* Fakery.debug.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Fakery";
-				IBSC_MODULE = Fakery;
-				INFOPLIST_FILE = "Target Support Files/Fakery/ResourceBundle-Faker-Fakery-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = Faker;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		08ED020B8DD124C093E3A09C42E4523B /* Build configuration list for PBXNativeTarget "Fakery" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				738142A8ACE653D5FCE96FF7AC6F6302 /* Debug */,
-				E98CE3E4170AFFFDE5E66F9A65A24F02 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		25C5635EDC2FD450A5926511611D8BA1 /* Build configuration list for PBXNativeTarget "Fakery-Faker" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				EE8D514B3BFCD7AB7224D09A0B577ADE /* Debug */,
-				CD9E7B8A66237963F7E3DF6D497E5641 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -978,6 +906,24 @@
 			buildConfigurations = (
 				0FE7C92465F5723F571E0CA5E2376038 /* Debug */,
 				E149F5AA4CE06C7FB2F52F4ECB9EB481 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A15DBA404FB76AC43AD11A8A0E9D1FE9 /* Build configuration list for PBXNativeTarget "Fakery" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BED2799EB8215E5F18922960BAD4C1D /* Debug */,
+				E326D14FD734C3718F6B6F88D07EDD78 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C7D6529974E31C1990F50D570FEAE5FB /* Build configuration list for PBXNativeTarget "Fakery-Faker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B64D71758905CD1A20CCD22F0B517D9F /* Debug */,
+				49B8DAD8CF779F9CFCE4FDE35DD65418 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
