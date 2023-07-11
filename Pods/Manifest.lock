@@ -1,16 +1,16 @@
 PODS:
-  - Fakery (5.0.0)
+  - Fakery (5.1.0)
 
 DEPENDENCIES:
-  - Fakery (= 5.0.0)
+  - Fakery
 
 SPEC REPOS:
   trunk:
     - Fakery
 
 SPEC CHECKSUMS:
-  Fakery: 8146918b8dd6df98564dca10cbe8bd05354b8cc4
+  Fakery: a90caff00ca5cacde6c161c3eafc72314a03d34d
 
-PODFILE CHECKSUM: e667e1d65d400dc8ca8c58783fac413124256189
+PODFILE CHECKSUM: bca5505a731ee039a06ca11077856c3616d85a5b
 
 COCOAPODS: 1.11.3
